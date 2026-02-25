@@ -1,16 +1,20 @@
-## Hi there 👋
+# À propos
+Avertissement : Ce compte a été créé dans un but éducatif. Il n'a aucune vertue professionnelle.
 
-<!--
-**AsthmaCore/AsthmaCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AsthmaCore
+  Veni. Vidi. Vici ?
+  <br>
+  Étudiante en design et programmation, guidée par la curiosité et l'envie d'apprendre !
+  <br>
+  En apprentissage de Python et Javascript.
+  
+### Projets en cours
+  - Un portfolio
+  - Un site de quiz de culture générale
+  - Un dictionnaire de programmation
 
-Here are some ideas to get you started:
+### Projets finis
+  C'est vide... il faudrait peut-être revenir plus tard ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me contacter
+  La création de ce compte étant à but éducatif, je ne souhaite pas être contacter.
